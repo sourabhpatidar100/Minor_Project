@@ -1,4 +1,4 @@
-# first_app
+# Minor project(Wholesaler Hub)
 
 A new Flutter project.
 
