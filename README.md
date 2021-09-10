@@ -1,4 +1,4 @@
-# Minor project(Wholesaler Hub)
+# Group Project(Wholesaler Hub)
 
 A new Flutter project.
 
